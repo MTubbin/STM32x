@@ -4992,7 +4992,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 149.86) (xy 186.69 149.86)
+			(xy 184.15 142.24) (xy 195.58 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5002,7 +5002,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 187.96) (xy 128.27 190.5)
+			(xy 255.27 57.15) (xy 255.27 59.69)
 		)
 		(stroke
 			(width 0)
@@ -5222,7 +5222,7 @@
 	)
 	(polyline
 		(pts
-			(xy 173.99 133.35) (xy 182.88 133.35)
+			(xy 182.88 125.73) (xy 191.77 125.73)
 		)
 		(stroke
 			(width 0)
@@ -5512,7 +5512,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 144.78) (xy 177.8 144.78)
+			(xy 184.15 137.16) (xy 186.69 137.16)
 		)
 		(stroke
 			(width 0)
@@ -5622,7 +5622,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 152.4) (xy 177.8 158.75)
+			(xy 186.69 144.78) (xy 186.69 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5782,7 +5782,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 152.4) (xy 177.8 152.4)
+			(xy 184.15 144.78) (xy 186.69 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6072,7 +6072,7 @@
 	)
 	(polyline
 		(pts
-			(xy 182.88 162.56) (xy 163.83 162.56)
+			(xy 191.77 154.94) (xy 172.72 154.94)
 		)
 		(stroke
 			(width 0)
@@ -6092,7 +6092,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 147.32) (xy 186.69 147.32)
+			(xy 184.15 139.7) (xy 195.58 139.7)
 		)
 		(stroke
 			(width 0)
@@ -6392,7 +6392,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 139.7) (xy 177.8 144.78)
+			(xy 186.69 132.08) (xy 186.69 137.16)
 		)
 		(stroke
 			(width 0)
@@ -6432,7 +6432,7 @@
 	)
 	(polyline
 		(pts
-			(xy 182.88 133.35) (xy 191.77 133.35)
+			(xy 191.77 125.73) (xy 200.66 125.73)
 		)
 		(stroke
 			(width 0)
@@ -6662,7 +6662,7 @@
 	)
 	(polyline
 		(pts
-			(xy 163.83 162.56) (xy 163.83 133.35)
+			(xy 172.72 154.94) (xy 172.72 125.73)
 		)
 		(stroke
 			(width 0)
@@ -6742,7 +6742,7 @@
 	)
 	(polyline
 		(pts
-			(xy 163.83 133.35) (xy 175.26 133.35)
+			(xy 172.72 125.73) (xy 184.15 125.73)
 		)
 		(stroke
 			(width 0)
@@ -7122,7 +7122,7 @@
 	)
 	(polyline
 		(pts
-			(xy 191.77 162.56) (xy 181.61 162.56)
+			(xy 200.66 154.94) (xy 190.5 154.94)
 		)
 		(stroke
 			(width 0)
@@ -7142,7 +7142,7 @@
 	)
 	(polyline
 		(pts
-			(xy 191.77 133.35) (xy 191.77 162.56)
+			(xy 200.66 125.73) (xy 200.66 154.94)
 		)
 		(stroke
 			(width 0)
@@ -7296,7 +7296,7 @@
 		)
 		(uuid "82cb72db-0a26-470e-a220-1024d2e815f2")
 	)
-	(text "Power Regulator\n"
+	(text "LDO"
 		(exclude_from_sim no)
 		(at 33.02 91.948 0)
 		(effects
@@ -7338,7 +7338,7 @@
 	)
 	(text "SWD Header\n"
 		(exclude_from_sim no)
-		(at 169.926 134.874 0)
+		(at 178.816 127.254 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7622,7 +7622,7 @@
 		(uuid "65710359-4d3e-4fa2-8cfd-6173f5c26951")
 	)
 	(label "SWD_DIO"
-		(at 179.07 147.32 0)
+		(at 187.96 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7743,7 +7743,7 @@
 		(uuid "85a5c0ba-5dbd-471f-b398-09c9db558869")
 	)
 	(label "SWD_CLK"
-		(at 179.07 149.86 0)
+		(at 187.96 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8837,7 +8837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.digikey.com/en/products/detail/nextgen-components/0402W105K100HI/14632388?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbRAHZYBWMKkAXQIAcAXKEAZRYCcBLAOwDmIAL4EATAAZYATgQhkkdNnxFS4AAQBWgGINmbSCACq-XiwDyKALI40WAK7ccoggFp40Baky4CxSDIZAGY4CHoRMRAANnleABN2NzBJcRADdnSQFgBPJhcjeKxkSKA"
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/murata-electronics/GRM155R70J105KA12D/5027109"
 			(at 160.02 44.45 0)
 			(effects
 				(font
@@ -8846,7 +8846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Aillen"
+		(property "Manufacturer" "Murata Electronics"
 			(at 160.02 44.45 0)
 			(effects
 				(font
@@ -8855,7 +8855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402W105K100HI"
+		(property "Manufacturer Part Number" "GRM155R70J105KA12D"
 			(at 160.02 44.45 0)
 			(effects
 				(font
@@ -9444,7 +9444,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 177.8 139.7 0)
+		(at 186.69 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9452,7 +9452,7 @@
 		(dnp no)
 		(uuid "50e8cd17-dc72-41c1-b137-4ebf5e50a341")
 		(property "Reference" "#PWR022"
-			(at 177.8 143.51 0)
+			(at 186.69 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9461,7 +9461,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 177.8 136.144 0)
+			(at 186.69 128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9469,7 +9469,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 139.7 0)
+			(at 186.69 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9478,7 +9478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 139.7 0)
+			(at 186.69 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9487,7 +9487,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 177.8 139.7 0)
+			(at 186.69 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11790,7 +11790,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 177.8 158.75 0)
+		(at 186.69 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11799,7 +11799,7 @@
 		(fields_autoplaced yes)
 		(uuid "adb297e8-c0a3-4164-b89d-369baedf48c1")
 		(property "Reference" "#PWR021"
-			(at 177.8 165.1 0)
+			(at 186.69 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11808,7 +11808,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 163.83 0)
+			(at 186.69 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11817,7 +11817,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 158.75 0)
+			(at 186.69 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11826,7 +11826,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 158.75 0)
+			(at 186.69 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11835,7 +11835,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 158.75 0)
+			(at 186.69 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12071,7 +12071,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10pF"
+		(property "Value" "10p"
 			(at 22.86 41.9099 0)
 			(effects
 				(font
@@ -12243,7 +12243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 20.0152 111.76 0)
 			(effects
 				(font
@@ -12270,7 +12270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.digikey.com/en/products/detail/nextgen-components/0402W106M6R3HI/18677011?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANrhwAEArQGIgC6pADgC5QgCqAdgEtOAeUwBZQtnwBXAE6EQAX1IBaBKhAZIOAiXJUQSAMxgEEFkpUgAbJsEATHqrBwYIDt0ggPITgE92RW8HfAwrIA"
+		(property "Distributor Link" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A106MQ8NNNC/3886777"
 			(at 19.05 107.95 0)
 			(effects
 				(font
@@ -12279,7 +12279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Aillen"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 19.05 107.95 0)
 			(effects
 				(font
@@ -12288,7 +12288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402W106M6R3HI"
+		(property "Manufacturer Part Number" "CL10A106MQ8NNNC"
 			(at 19.05 107.95 0)
 			(effects
 				(font
@@ -12330,7 +12330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10pF"
+		(property "Value" "10p"
 			(at 42.164 41.148 0)
 			(effects
 				(font
@@ -12685,7 +12685,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 128.27 190.5 0)
+		(at 255.27 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12694,7 +12694,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5fea9c9-2e36-4e53-ab81-3cf4afad3ea5")
 		(property "Reference" "#PWR027"
-			(at 128.27 196.85 0)
+			(at 255.27 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12703,7 +12703,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 195.58 0)
+			(at 255.27 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12712,7 +12712,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 190.5 0)
+			(at 255.27 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12721,7 +12721,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 190.5 0)
+			(at 255.27 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12730,7 +12730,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 190.5 0)
+			(at 255.27 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13076,7 +13076,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 170.18 147.32 0)
+		(at 179.07 139.7 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13085,7 +13085,7 @@
 		(dnp no)
 		(uuid "e2c07cd7-c241-4885-91c2-c55291bdef2a")
 		(property "Reference" "J2"
-			(at 170.18 142.24 0)
+			(at 179.07 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13093,7 +13093,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 171.704 155.194 0)
+			(at 180.594 147.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13101,7 +13101,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 170.18 147.32 0)
+			(at 179.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13110,7 +13110,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 147.32 0)
+			(at 179.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13119,7 +13119,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 170.18 147.32 0)
+			(at 179.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13128,7 +13128,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300411121/4846827"
-			(at 170.18 147.32 0)
+			(at 179.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13137,7 +13137,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 170.18 147.32 0)
+			(at 179.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13146,7 +13146,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "61300411121"
-			(at 170.18 147.32 0)
+			(at 179.07 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13775,7 +13775,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 128.27 187.96 0)
+		(at 255.27 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13784,7 +13784,7 @@
 		(fields_autoplaced yes)
 		(uuid "f56ba53a-54a5-4eb1-8106-06b83e0af71d")
 		(property "Reference" "TP1"
-			(at 130.81 183.3879 0)
+			(at 257.81 52.5779 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13793,7 +13793,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 130.81 185.9279 0)
+			(at 257.81 55.1179 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13802,7 +13802,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
-			(at 133.35 187.96 0)
+			(at 260.35 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13811,7 +13811,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 187.96 0)
+			(at 260.35 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13820,7 +13820,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 128.27 187.96 0)
+			(at 255.27 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
