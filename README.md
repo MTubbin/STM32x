@@ -1,5 +1,5 @@
 # STM32x
-Repo for custom STM32
+Repo for custom STM32F4 Breakout board
 
 Directory:
-Hardware folder - PCB Schematics, board layout
+Hardware folder - PCB Schematic, board layout
